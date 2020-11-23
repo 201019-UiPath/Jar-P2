@@ -12,7 +12,7 @@ Our automation project isn't just about finding items online for you to gift thi
  
 - The goal of our robot is to fully leverage UIPATH Studio to interact with the web and search what we think are the most frequented places for online shopping whether it be the top links in Google or the links from page three you never thought to check. 
 - We also plan to provide the user with a sheet of prices found and places they can find their product via URL. 
-- The eCommerce application we will be scapping data from is Google and if time allows, we would also like to add in Amazon and Target as well.
+- The eCommerce application we will be scapping data from is Google Shop and if time allows, we would also like to add in Amazon and Target as well.
  
 *What are our qualifications to build this Robot?*
  

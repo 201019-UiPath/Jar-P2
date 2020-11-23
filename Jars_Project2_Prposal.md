@@ -22,6 +22,6 @@ Our automation project isn't just about finding items online for you to gift thi
 We believe that our robot is something that the general public is ready for. Most people are used to having technologies to make starting, working on, and ending various tasks more efficient. For example, sharing code via github within a group of software developers or even something as meager as loading your washing machine and running quick cycle are both made easier through automation. Our robot will be a combination of technologies we are already acustom to using in our day-to-day lives. The real question should really be: why hasn't it been done yet?
 
 
-### Flow Chart
+## Flow Chart
 
 ![Flow Chart Diagram](https://github.com/201019-UiPath/JAR-CarsApp/blob/main/Shopping%20Assistant%20FlowChart.png)

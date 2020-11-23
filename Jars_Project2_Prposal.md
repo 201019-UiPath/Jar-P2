@@ -18,7 +18,7 @@ Our automation project isn't just about finding items online for you to gift thi
 - I'm glad you asked! For the past few weeks, our group has been studying night and day the ins and outs of UIPATH Studio. Whether it be learning how to speak to the web or outputting information to an excel sheet (sound familiar?) we are becoming increasingly confident using the studio. 
 - In addtion, the three of us plan to continue expanding our knowledge in this domain for the next few weeks so that we can continue to build our robot and provide the end user with the most efficient shopping trip yet!
 
-## Why is it important? 
+## Why is it Important? 
 We believe that our robot is something that the general public is ready for. Most people are used to having technologies to make starting, working on, and ending various tasks more efficient. For example, sharing code via github within a group of software developers or even something as meager as loading your washing machine and running quick cycle are both made easier through automation. Our robot will be a combination of technologies we are already acustom to using in our day-to-day lives. The real question should really be: why hasn't it been done yet?
 
 

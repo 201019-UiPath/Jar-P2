@@ -1,6 +1,6 @@
 # Shopping Assistant -  Bargin Bot
 **Authors:**
-**Rachel Hufnagel, James PlaneBianco, Anthony Tejada**
+**Rachel Hufnagel, James PaneBianco, Anthony Tejada**
 
 ## Overview
 When it comes to shopping of any sort, it can be a tedious and long task. This holiday season espically, most of the shopping we and our families will be doing will be soley online. The best part about online shopping is all the options that are avaible to search, even at the lastest of hours. However, one can become exhausted and overwhelmed with all the places to search and explore. In addition to those setbacks, we as humans can be easily distracted. For example, we spend more time looking into shiny, new things that we might want rather than those we want to gift. This is where our friend automation comes in and saves the day. What if our online shopping experience could be reduced to merely telling a robot what item you want and the robot searching all the popular or specified sites where that item is located? Then all time you would've spent shopping could be spent doing something more productive.

@@ -1,4 +1,4 @@
-# Name of Automation Project 
+# Shopping Assistant -  Bargin Bot
 **Authors:**
 **Rachel Hufnagel, James PaneBiance, Anthony Tejada**
 
@@ -6,7 +6,7 @@
 When it comes to shopping of any sort, it can be a tedious and long task. This holiday season espically, most of the shopping we and our families will be doing will be soley online. The best part about online shopping is all the options that are avaible to search, even at the lastest of hours. However, one can become exhausted and overwhelmed with all the places to search and explore. In addition to those setbacks, we as humans can be easily distracted. For example, we spend more time looking into shiny, new things that we might want rather than those we want to gift. This is where our friend automation comes in and saves the day. What if our online shopping experience could be reduced to merely telling a robot what item you want and the robot searching all the popular or specified sites where that item is located? Then all time you would've spent shopping could be spent doing something more productive.
 
 ## What is our Automation Project About
-Our automation project isn't just about finding items online for you to gift this holiday season. It can also be used for personal exploration when searching for the best deals on a specified item that you might want. Remember that new shiny item from earlier? Wouldn't you want to pay the cheapest price possible? This can easily be achived with our online price finding automation robot. Moreover, you can spend little to no time obtaining this item for yourself when the robot is doing all tedious work.
+Our automation project isn't just about finding items online for you to gift this holiday season. It can also be used for personal exploration when searching for the best deals on a specified item that you might want. Remember that new shiny item from earlier? Wouldn't you want to pay the cheapest price possible? This can easily be achived with our Bargin Bot automation robot. Moreover, you can spend little to no time obtaining this item for yourself when the robot is doing all tedious work.
 
 *Our Goals for the Robot*
 
@@ -19,7 +19,7 @@ Our automation project isn't just about finding items online for you to gift thi
 - In addtion, the three of us plan to continue expanding our knowledge in this domain for the next few weeks so that we can continue to build our robot and provide the end user with the most efficient shopping trip yet!
 
 ## Why is it important? 
-We believe that our robot is something that the general public is ready for. Most people are used to having technologies to make starting, working on, and ending various tasks more efficient. For example, sharing code via github within a group of software developers or even something as meager as ordering your groceries online and then scheduling a time to pick them up are both made easier through automation. Our robot will be a combination of technologies we are already acustom to using in our day-to-day lives. The real question should really be: why hasn't it been done yet?
+We believe that our robot is something that the general public is ready for. Most people are used to having technologies to make starting, working on, and ending various tasks more efficient. For example, sharing code via github within a group of software developers or even something as meager as loading your washing machine and running quick cycle are both made easier through automation. Our robot will be a combination of technologies we are already acustom to using in our day-to-day lives. The real question should really be: why hasn't it been done yet?
 
 
 ### Flow Chart

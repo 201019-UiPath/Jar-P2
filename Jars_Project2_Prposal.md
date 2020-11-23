@@ -22,7 +22,7 @@ Our automation project is centered around shopping for the latest game console o
 ## Why is it Important? 
 We believe that our robot is something that the general public is ready for. Most people are used to having technologies to make starting, working on, and ending various tasks more efficient. For example, sharing code via github within a group of software developers or even something as meager as loading your washing machine and running a quick cycle are both made easier through automation. Our robot will be a combination of technologies we are already accustomed to using in our day-to-day lives. Shopping for the new PS5 gaming console could never be easier.
 
-
+ 
 
 ## Flow Chart
 

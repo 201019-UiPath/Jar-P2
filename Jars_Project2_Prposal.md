@@ -11,7 +11,7 @@ Our automation project isn't just about finding items online for you to gift thi
 *Our Goals for the Robot*
 
 - The goal of our robot is to fully leaverage UIPATH Studio to interact with the web and search what we think are the most frequented places for online shopping whether it be the top links in Google or the links from page three you never thought to check. 
-- We also plan to provide the user with a sheet of prices found and places they can find their product via their URL. 
+- We also plan to provide the user with a sheet of prices found and places they can find their product via URL. 
 
 *What are our qualification to build this Robot?*
 

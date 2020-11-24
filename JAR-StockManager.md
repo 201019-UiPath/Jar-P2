@@ -1,7 +1,7 @@
 # Stock Manager
 **Authors:**
 **Rachel Hufnagel, James Panebianco, Anthony Tejada**
- 
+  
 ## Overview
 If you have ever had money in the stock market, you might find yourself constantly checking on your money. It's not a bad thing, but it can be time consuming. We as humans like to focus our attention on money especially if there is a chance we might lose or gain some of it. The stock market is a beautiful thing, but we sometimes also need to focus our attention on other more important things during the day. This is where our friend automation comes into play. If there was a way to monitor your stocks without being glued to your screen all day, why wouldn't you do that?
  
@@ -22,7 +22,6 @@ Our automation project is centered around monitoring the market for a given user
  
 ## Why is it Important? 
 We believe that our robot is something that the general public is ready for. Most people are used to having technologies take over and monitor the tedious and various tasks in our lives. For example, sharing code via github within a group of software developers or even something as meager as loading your washing machine and running a quick cycle are both made easier through automation. Our robot will be a combination of technologies we are already accustomed to using in our day-to-day lives. Why should something as important as investments be any different?
- 
 
 ## Flow Chart
 

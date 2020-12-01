@@ -1297,15 +1297,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rache\\.nuget\\packages\\": {}
+    "C:\\Users\\James\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "JAR-StockManager",
       "projectName": "JAR-StockManager",
-      "projectPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\JAR-StockManager\\.local",
-      "packagesPath": "C:\\Users\\rache\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\JAR-StockManager\\.local"
+      "projectPath": "C:\\Revature_Workspace\\Jar-P2\\JAR-StockManager\\.local",
+      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+      "outputPath": "C:\\Revature_Workspace\\Jar-P2\\JAR-StockManager\\.local"
     },
     "frameworks": {
       "net461": {

@@ -17,12 +17,7 @@ Our automation project is centered around monitoring the market for a given user
 ## Getting Started
 To Clone: `git clone https://github.com/201019-UiPath/Jar-P2.git`
 
-- You'll need to create a folder within you C:\ drive called **JAR-StockManager**.
-- Within this new folder, create two new excel files. One named **Tickers.xlsx**, the other named **StockData.xlsx**.
-- Open **Tickers.xlsc** and create two headers called **ID** and **Ticker** within cells **A1** and **B1** respectively. 
-- Within the **ID** column starting at the value **1**, write how many Tickers you will be tracking. For instance, if you'll be tracking 20 Tickers, write down the values 1-20 in each cell, ending at cell A21.
-- Within the **Ticker** column, write each individual Ticker of the stocks you'll be tracking up to the cell which will be adjecent to your last **ID** number. A Ticker is the abbreviated name of a Company. For instance, when searching Apple Stock, you'll see that the Ticker associated is AAPL.
-- Save and close **Tickers.xlsc**. Open **StockData.xlsx**.
+- You will see a folder called **Move files to C drive**, take the contents of this folder, which will be named **JAR-StockManager**, and place it directly onto your C:\ drive.
 
 ## Usage
 - To run this project from Orchestrator, follow these steps:

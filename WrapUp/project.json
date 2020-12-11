@@ -3,15 +3,19 @@
   "description": "JAR Stock Manager Last Phase ",
   "main": "Main.xaml",
   "dependencies": {
+    "BalaReva.EasyExcel.Activities": "[28.0.2]",
+    "BalaReva.Excel.Activities": "[2020.3.0]",
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
-    "UiPath.System.Activities": "[19.10.1]",
-    "UiPath.UIAutomation.Activities": "[19.11.3]"
+    "UiPath.Persistence.Activities": "[1.1.9]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.3]",
+    "UiPathTeam.OutlookInlineImage.Activities": "[1.1.0]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
   "studioVersion": "19.10.5.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -29,7 +33,12 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
+  },
+  "arguments": {
+    "input": [],
+    "output": []
   },
   "expressionLanguage": "VisualBasic"
 }

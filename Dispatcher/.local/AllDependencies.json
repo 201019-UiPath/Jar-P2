@@ -1599,15 +1599,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rache\\.nuget\\packages\\": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Dispatcher",
       "projectName": "Dispatcher",
-      "projectPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\Dispatcher\\.local",
-      "packagesPath": "C:\\Users\\rache\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\Dispatcher\\.local"
+      "projectPath": "D:\\revature-workspace\\Jar-P2\\Jar-P2\\Dispatcher\\.local",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "D:\\revature-workspace\\Jar-P2\\Jar-P2\\Dispatcher\\.local"
     },
     "frameworks": {
       "net461": {

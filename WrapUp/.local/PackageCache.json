@@ -6,12 +6,12 @@
         "Version": "28.0.2"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.Utilities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.Utilities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.easyexcel.activities/28.0.2\\lib/BalaReva.EasyExcel.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
       ]
     },
     {
@@ -20,12 +20,12 @@
         "Version": "2020.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Base.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Utilities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Base.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.Utilities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\balareva.excel.activities/2020.3.0\\lib/BalaReva.Excel.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
       ]
     },
     {
@@ -34,18 +34,18 @@
         "Version": "2.7.2"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.dll"
       ]
     },
     {
@@ -54,16 +54,16 @@
         "Version": "1.7.2"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/MailKit.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/MimeKit.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/MailKit.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/MimeKit.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.dll"
       ]
     },
     {
@@ -72,70 +72,15 @@
         "Version": "1.1.9"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Orchestrator.Service.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Orchestrator.Client.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "UiPath.UIAutomation.Activities",
-        "Version": "19.11.3"
-      },
-      "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath/19.10.7452.28108\\lib/UiPath.Interop.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.ocr.contracts/2.2.1\\lib/net45/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.Wizards.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Tesseract.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "UiPathTeam.OutlookInlineImage.Activities",
-        "Version": "1.1.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipathteam.outlookinlineimage.activities/1.1.0\\lib/net461/UiPathTeam.OutlookInlineImage.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipathteam.outlookinlineimage.activities/1.1.0\\lib/net461/UiPathTeam.OutlookInlineImage.Activities.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipathteam.outlookinlineimage.activities/1.1.0\\lib/net461/UiPathTeam.OutlookInlineImage.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.1.1\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Orchestrator.Service.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Activities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.persistence.activities/1.1.9\\lib/net461/UiPath.Persistence.Orchestrator.Client.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.telemetry.client/1.2.20\\lib/net461/TelemetryClient.dll"
       ]
     },
     {
@@ -144,55 +89,105 @@
         "Version": "20.10.1"
       },
       "Assemblies": [
-        "C:\\Users\\anton\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.signalr.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration.binder/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection/3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.logging/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.logging.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.options/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.primitives/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.componentmodel.annotations/4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.text.encodings.web/4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.text.json/4.7.2\\lib/net461/System.Text.Json.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.threading.channels/4.7.1\\lib/net461/System.Threading.Channels.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.platform/20.10.4\\lib/net461/UiPath.Platform.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\anton\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.System.Activities.dll"
+        "C:\\Users\\rache\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.http.features/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.signalr.client/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.signalr.common/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json/3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.bcl.asyncinterfaces/1.1.1\\lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.configuration/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.configuration.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.configuration.binder/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.dependencyinjection/3.1.6\\lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.logging/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.logging.abstractions/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.options/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.extensions.primitives/3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.21\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.componentmodel.annotations/4.7.0\\lib/net461/System.ComponentModel.Annotations.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.io.pipelines/4.7.1\\lib/netstandard2.0/System.IO.Pipelines.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.memory/4.5.4\\lib/net461/System.Memory.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.numerics.vectors/4.5.0\\lib/net46/System.Numerics.Vectors.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.text.encodings.web/4.7.1\\lib/net461/System.Text.Encodings.Web.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.text.json/4.7.2\\lib/net461/System.Text.Json.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.threading.channels/4.7.1\\lib/net461/System.Threading.Channels.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.platform/20.10.4\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.system.activities/20.10.1\\lib/net461/UiPath.System.Activities.dll"
       ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.11.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\rache\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath/19.10.7452.28108\\lib/UiPath.Interop.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.ocr.contracts/2.2.1\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.uiautomation.activities/19.11.3\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\rache\\.nuget\\packages\\uipath.vision/2.0.1\\lib/net452/UiPath.Vision.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.OutlookInlineImage.Activities",
+        "Version": "[1.1.0]"
+      },
+      "Assemblies": []
     }
   ],
   "Conflicts": [],
@@ -947,16 +942,6 @@
         {
           "Item1": "UiPath.OCR.Contracts",
           "Item2": "[2.2.1, )"
-        }
-      ]
-    },
-    "UiPathTeam.OutlookInlineImage.Activities": {
-      "Id": "UiPathTeam.OutlookInlineImage.Activities",
-      "Version": "1.1.0",
-      "Dependencies": [
-        {
-          "Item1": "Newtonsoft.Json",
-          "Item2": "[10.0.3, )"
         }
       ]
     }

@@ -1412,20 +1412,6 @@
           "lib/net452/UiPath.Vision.Core.dll": {},
           "lib/net452/UiPath.Vision.dll": {}
         }
-      },
-      "UiPathTeam.OutlookInlineImage.Activities/1.1.0": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "10.0.3"
-        },
-        "compile": {
-          "lib/net461/_._": {}
-        },
-        "runtime": {
-          "lib/net461/UiPathTeam.OutlookInlineImage.Activities.Design.dll": {},
-          "lib/net461/UiPathTeam.OutlookInlineImage.Activities.dll": {},
-          "lib/net461/UiPathTeam.OutlookInlineImage.dll": {}
-        }
       }
     }
   },
@@ -3014,19 +3000,6 @@
         "uipath.vision.2.0.1.nupkg.sha512",
         "uipath.vision.nuspec"
       ]
-    },
-    "UiPathTeam.OutlookInlineImage.Activities/1.1.0": {
-      "sha512": "IEITgr7AflwlGcioGPgEQfLttE9+D1uOvZFCVwQK2c5ya4mpQTXA8eKkaN5Ah7c2U3ydHyV0xou6HTpwq74grA==",
-      "type": "package",
-      "path": "uipathteam.outlookinlineimage.activities/1.1.0",
-      "files": [
-        ".nupkg.metadata",
-        "lib/net461/UiPathTeam.OutlookInlineImage.Activities.Design.dll",
-        "lib/net461/UiPathTeam.OutlookInlineImage.Activities.dll",
-        "lib/net461/UiPathTeam.OutlookInlineImage.dll",
-        "uipathteam.outlookinlineimage.activities.1.1.0.nupkg.sha512",
-        "uipathteam.outlookinlineimage.activities.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -3043,15 +3016,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {}
+    "C:\\Users\\rache\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "WrapUp",
       "projectName": "WrapUp",
-      "projectPath": "D:\\revature-workspace\\Jar-P2\\Jar-P2\\WrapUp\\.local",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\revature-workspace\\Jar-P2\\Jar-P2\\WrapUp\\.local"
+      "projectPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\Jar-P2\\WrapUp\\.local",
+      "packagesPath": "C:\\Users\\rache\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rache\\OneDrive\\Documents\\UiPath\\Jar-P2\\WrapUp\\.local"
     },
     "frameworks": {
       "net461": {
@@ -3099,5 +3072,170 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.SignalR.Common 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Common"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.DependencyInjection.Abstractions 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IO.Pipelines 4.7.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Logging.Abstractions 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Logging 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Threading.Channels 4.7.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "System.Threading.Channels"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Configuration 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Configuration.Binder 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Configuration.Binder"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.DependencyInjection 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.SignalR.Protocols.Json 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Protocols.Json"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Http.Features 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.Http.Features"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Connections.Abstractions 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.Connections.Abstractions"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Configuration.Abstractions 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Primitives 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Http.Connections.Common 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.Http.Connections.Common"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BalaReva.Excel.Activities 2020.3.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "BalaReva.Excel.Activities"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.SignalR.Client 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Client"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SharpZipLib 1.2.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "SharpZipLib"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BalaReva.EasyExcel.Activities 28.0.2' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "BalaReva.EasyExcel.Activities"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Options 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.Http.Connections.Client 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.Http.Connections.Client"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNetCore.SignalR.Client.Core 3.1.6' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNetCore.SignalR.Client.Core"
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package UiPathTeam.OutlookInlineImage.Activities. No packages exist with this id in source(s): C:\\Program Files (x86)\\UiPath\\Studio\\.\\Packages, https://api.nuget.org/v3/index.json, https://www.myget.org/F/workflow/, Local, nuget.org",
+      "libraryId": "UiPathTeam.OutlookInlineImage.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
 }
